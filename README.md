@@ -92,6 +92,3 @@ To test the API, you can use tools like `curl`:
     curl http://127.0.0.1:8080/add/3/4
     ```
 
-## License
-
-This project is licensed under the MIT License.
