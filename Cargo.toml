@@ -1,0 +1,9 @@
+[package]
+name = "actix-imp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+rhai = "1.8"
+
