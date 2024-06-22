@@ -40,8 +40,8 @@ This project is a simple web API built with [Actix Web](https://actix.rs/) and [
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/actix-rhai-arithmetic-api.git
-    cd actix-rhai-arithmetic-api
+    https://github.com/b17w1z4rd/actix-web-api-calculator.git
+    cd actix-web-api-calculator
     ```
 
 2. **Add dependencies**: Edit `Cargo.toml` to include `actix-web` and `rhai`.
