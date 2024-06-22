@@ -78,17 +78,3 @@ This project is a simple web API built with [Actix Web](https://actix.rs/) and [
     - Multiply: `http://127.0.0.1:8080/multiply/{num1}/{num2}`
     - Add: `http://127.0.0.1:8080/add/{num1}/{num2}`
 
-## Example
-
-To test the API, you can use tools like `curl`:
-
-- **Multiplication**:
-    ```sh
-    curl http://127.0.0.1:8080/multiply/3/4
-    ```
-
-- **Addition**:
-    ```sh
-    curl http://127.0.0.1:8080/add/3/4
-    ```
-
